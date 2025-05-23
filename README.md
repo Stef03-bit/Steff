@@ -1,2 +1,2 @@
 # Steff
-Es juego basico en python para practicar 
+Es juego basico en python para practicar 😭
